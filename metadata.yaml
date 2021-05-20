@@ -1,0 +1,4 @@
+homepage: "https://github.com/CTassisF/GTM-HSTS-Header"
+versions:
+  - sha: 04a9db399ac1fb89c4038fc67f3fb5829b49740f
+    changeNotes: Initial release
