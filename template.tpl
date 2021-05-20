@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "HTTP Strict-Transport-Security Header",
+  "categories": ["UTILITY", "PERSONALIZATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "HSTS",
